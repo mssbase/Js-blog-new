@@ -110,35 +110,32 @@ body {
 
 .tags li {
   display: inline-block;
+  text-decoration: none;
 }
 
-.tags li .tag-size-1 {
-  font-size: 16px;
-  text-decoration: none;
-  color: #df324e;
+.tag-size-1 {
+  font-size: 15px;
+  color: #31064e;
 }
 
 .tag-size-2 {
-  font-size: 20px;
-  text-decoration: none;
-  color: blue;
+  font-size: 18px;
+  color: red;
 }
 
 .tag-size-3 {
   font-size: 22px;
-  text-decoration: none;
   color: #32db23;
 }
 
 .tag-size-4 {
   font-size: 24px;
   text-decoration: none;
-  color: #31064e;
+  color: cyan;
 }
 
 .tag-size-5 {
-  font-size: 26px;
+  font-size: 28px;
   text-decoration: none;
-  color: #ac1a10;
 }
 /*# sourceMappingURL=style.css.map */
